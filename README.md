@@ -1,16 +1,34 @@
-### Hi there 👋
+# My GitHub Account
 
-<!--
-**stasdo12/stasdo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm [stasdo12], an experienced developer specializing in Python and Java. I've completed numerous courses and spent a year working as a programmer.
 
-Here are some ideas to get you started:
+## My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Java
+- 🐍 Python
+- 🌐 Web Development
+- 💻 Databases: SQL, MongoDB
+- 🚀 Development Experience: 1 year
+
+## My Projects
+
+- [Project 1]([link_to_project_1](https://github.com/stasdo12/SkinDreamsTottoo)): Website for tattoo studio
+- [Project 2]([link_to_project_2](https://github.com/stasdo12/1)): Website for tattoo school
+- [Project 3]([link_to_project_3](https://github.com/stasdo12/android_kotlin_app)): Android app
+- [Project 3]([link_to_project_3](https://github.com/stasdo12/DataAnalyticsDjango)): Gjango app
+
+## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stasdo12&show_icons=true&theme=radical)
+
+## Contact
+
+- 📧 Email: stanislavdonetc@gmail.com
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-click_here-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stanislav-donetc)
+
+## How to Reach Me
+
+[![Email](https://img.shields.io/badge/Email-click_here-brightgreen?style=for-the-badge)](mailto:stanislavdonetc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-click_here-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stanislav-donetc)
+
+
