@@ -1,6 +1,6 @@
 # My GitHub Account
 
-# Hi there! 👋 I'm [stasdo12], an experienced developer specializing in Python and Java. I've completed numerous courses and spent a year working as a programmer.
+# Hi there! 👋 I'm Stanislav Donetc, an experienced developer specializing in Python and Java. I've completed numerous courses and spent a year working as a programmer.
 
 ## My Skills
 
